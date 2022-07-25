@@ -20,8 +20,8 @@ Multiple-Line Graph
 ![Multiple-Line Graph](https://github.com/nfujikad/PyBer_Analysis/blob/main/Resources/Multiple_Line_Graph.png)
 
 ## Summary
-As mentioned above, an interesting take would be to expand the data into a 12 month period to see how it fluxuates throughout the year. This will take into consideration holidays, school, tourism, etc. With this information, prices can be adjusted. 
+1. As mentioned above, an interesting take would be to expand the data into a 12 month period to see how it fluxuates throughout the year. This will take into consideration holidays, school, tourism, etc. With this information, prices can be adjusted. 
 
-Additionally, more research should be done to understand why in urban areas the average driver fare is lower than the average ride fare whereas, in suburban and rural the average driver fare is higher than the average ride fare. There is a discrepancy in whether the rides from rural to urban are considered rural or urban and are recorded as such. 
+2. Additionally, more research should be done to understand why in urban areas the average driver fare is lower than the average ride fare whereas, in suburban and rural the average driver fare is higher than the average ride fare. There is a discrepancy in whether the rides from rural to urban are considered rural or urban and are recorded as such. 
 
-Finally, it would be beneficial to track ride distance and time. Are prices dependent on time or distance, and which is more beneficial for revenue? Are rural and suburban prices higher because the drive is further away or because it takes longer? are urban total rides and total fares higher because the rides are shorter and thus at a higher frequency?
+3. Finally, it would be beneficial to track ride distance and time. Are prices dependent on time or distance, and which is more beneficial for revenue? Are rural and suburban prices higher because the drive is further away or because it takes longer? are urban total rides and total fares higher because the rides are shorter and thus at a higher frequency?
