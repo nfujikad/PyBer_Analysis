@@ -20,7 +20,7 @@ Multiple-Line Graph
 ![Multiple-Line Graph](https://github.com/nfujikad/PyBer_Analysis/blob/main/Resources/Multiple_Line_Graph.png)
 
 ## Summary
-1. As mentioned above, an interesting take would be to expand the data into a 12 month period to see how it fluxuates throughout the year. This will take into consideration holidays, school, tourism, etc. With this information, prices can be adjusted. 
+1.  As mentioned above, an interesting take would be to expand the data into a 12 month period to see how it fluxuates throughout the year. This will take into consideration holidays, school, tourism, etc. With this information, prices can be adjusted. 
 
 2. Additionally, more research should be done to understand why in urban areas the average driver fare is lower than the average ride fare whereas, in suburban and rural the average driver fare is higher than the average ride fare. There is a discrepancy in whether the rides from rural to urban are considered rural or urban and are recorded as such. 
 
